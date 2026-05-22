@@ -24,5 +24,14 @@
   <h2>
     Freies Bild
   </h2>
+<script>
+  const hobbys = ["...", "...", "...", "..."];  // deine eigenen Hobbys und Name eintragen
+  const liste = document.getElementById("liste-hobbys");
+  hobbys.forEach(h => {
+    let li = document.createElement("li");
+    li.textContent = h;
+    liste.appendChild(li);
+  });
+</script>
 </body>
  
