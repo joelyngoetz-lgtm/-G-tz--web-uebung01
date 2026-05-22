@@ -25,6 +25,31 @@
   <h2>
     Freies Bild
   </h2>
+<figure>
+
+  <img>
+    src="img/bild1.jpg"
+    width="400"
+    title="Freies Bild"
+    alt="Tim Gioh Gesicht"
+  
+  <figcaption>
+    Foto von
+    <a href="https://www.gutefrage.net/nutzer/Laurenz303" target="_blank">
+      Laurenz303
+    </a>,
+    
+    <a href="https://www.gutefrage.net/frage/ist-tim-gi-oh-attraktiv" target="_blank">
+      „Ist Tim Gi Oh attraktiv?“
+    </a>,
+    
+    Lizenz:
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+      CC BY 4.0
+    </a>
+  </figcaption>
+
+</figure>
 <script>
   const hobbys = ["Schwimmen", "Tanzen", "Karate", "Joelyn Götz"];  // deine eigenen Hobbys und Name eintragen
   const liste = document.getElementById("liste-hobbys");
