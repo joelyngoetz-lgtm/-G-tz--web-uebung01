@@ -21,11 +21,12 @@
   <h2>
     Meine Hobbys
   </h2>
+<ul id="liste-hobbys"></ul>
   <h2>
     Freies Bild
   </h2>
 <script>
-  const hobbys = ["...", "...", "...", "..."];  // deine eigenen Hobbys und Name eintragen
+  const hobbys = ["Schwimmen", "Tanzen", "Karate", "Joelyn Götz"];  // deine eigenen Hobbys und Name eintragen
   const liste = document.getElementById("liste-hobbys");
   hobbys.forEach(h => {
     let li = document.createElement("li");
