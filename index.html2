@@ -1,0 +1,28 @@
+<!Doctype html>
+<head> 
+  <meta charset="UTF-8">
+</head> 
+<body style="background-color: lightblue;"> 
+  <h1>
+    Joelyn Götz 6R
+  </h1> 
+  <h2> 
+    Persönliche Daten
+  </h2> 
+  <p> Geburtsdatum: 03.06.2010<br>Lieblingsfarbe: blau</p> 
+  <h2> 
+    Meine Lieblingsfächer
+  </h2> 
+  <ol>
+    <li>Sport</li>
+    <li>Biologie</li>
+    <li>Kunst</li>
+  </ol> 
+  <h2>
+    Meine Hobbys
+  </h2>
+  <h2>
+    Freies Bild
+  </h2>
+</body>
+ 
